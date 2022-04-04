@@ -1,0 +1,71 @@
+body{
+    color: white;
+}
+.main-wrapper{
+    background-color: #06312c;
+}
+col{
+    border: 1px solid black;
+}
+.message{
+width: 620px;
+height: 55px;
+border-radius: 10px;
+}
+.bottom-navigation{
+    background-color: #12413b;
+}
+.fa{
+    color: #d1caca;
+    
+}
+.center{
+    text-align: center;
+    width: 100%;
+}
+.top{
+    padding: 10px;
+}
+input{
+    width: 400px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.dividing-line{
+   border-top: 1px solid white;
+}
+.side-line{
+    border-left: 1px solid white;
+    margin-right: 50px;
+}
+.down{
+    position: relative;
+    bottom: -38.3rem;
+}
+.side{
+    padding-left: 60px;
+    padding-right:50px;
+}
+.root{
+    padding: 20px;
+}
+.circle{
+    background-color: gray;
+    padding: 10px;
+    border-radius: 25px !important;
+    position:relative;
+    right:-50rem ;
+}
+.arrow-down{
+    position: relative;
+    bottom: -37rem;
+}
+.bg-img{
+    background-image: url(./img/whatever.png);
+    
+}
+.fa-heart{
+    color: red;
+}
